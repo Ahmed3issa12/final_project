@@ -1,0 +1,7 @@
+0 I Love You
+1 Sorry
+2 House
+3 Bathroom
+4 No
+5 Okay
+6 Help
